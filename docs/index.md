@@ -20,7 +20,7 @@ features:
   - title: 🎯 Fácil de Usar
     details: Diseñado para usuarios sin conocimientos de programación. Interfaz intuitiva y guías paso a paso.
   - title: 📊 Múltiples Gráficos
-    details: Soporte para más de 15 tipos de gráficos diferentes: barras, líneas, áreas, dispersión, y muchos más.
+     details: Soporte para más de 15 tipos de gráficos diferentes - barras, líneas, áreas, dispersión, y muchos más.
   - title: 📁 Formatos Soportados
     details: Importa datos desde archivos CSV y XLSX. Validación automática y detección de estructura.
   - title: 🎨 Personalizable
