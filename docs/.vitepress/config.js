@@ -3,7 +3,7 @@ export default {
   description: 'Manual completo de Ysyviz, herramienta de visualización de datos',
   
   // Configuración para GitHub Pages
-  base: '/ysyviz-docs/', // Cambia esto por el nombre de tu repositorio
+  base: '/ysyviz-doc/', // Nombre del repositorio
   
   // Configuración del tema
   themeConfig: {
