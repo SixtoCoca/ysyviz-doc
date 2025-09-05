@@ -16,7 +16,7 @@ Bienvenido al manual completo de **Ysyviz**, una herramienta de visualización d
 
 ## Recursos Adicionales
 
-- **[Página Principal](../)** - Volver al inicio de la documentación
+- **[Página Principal](/)** - Volver al inicio de la documentación
 - **[Repositorio GitHub](https://github.com/SixtoCoca/ysyviz)** - Código fuente y contribuciones
 
 ---
