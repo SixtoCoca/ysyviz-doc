@@ -77,3 +77,7 @@ En este apartado listamos los configuraciones que aparence en cada tipo de gráf
 ## Gráfico de Pirámide
 - **Obligatorios**: Eje Y  
 - **Opcionales**: Pirámide Izquierda, Pirámide Derecha, Título, Color Izquierdo, Color Derecho, Leyenda Personalizada, Posición de Leyenda Personalizada  
+
+---
+
+[← Flujo de Trabajo](./workflow) | [→ Preparación de Datos CSV](./csv)

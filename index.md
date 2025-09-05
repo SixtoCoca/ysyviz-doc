@@ -49,6 +49,6 @@
 - **Estilos**: Bootstrap 5.3.6 + CSS3
 - **Despliegue**: GitHub Pages
 
-## 📖 [Manual de Usuario →](./guide/)
+## 📖 [Manual de Usuario →](./docu/)
 
 ---

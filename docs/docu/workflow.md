@@ -8,7 +8,7 @@ Ysyviz sigue un flujo de trabajo simple y intuitivo dividido en 4 pasos principa
 
 ## 1. Subida de Fichero
 
-![Interfaz de carga de archivos](/subidafichero.png)
+![Interfaz de carga de archivos](./subidafichero.png)
 
 Al abrir la aplicación nos aparecera un recuador donde nos indica donde tenemos que subir el fichero. Una vez subamos el fichero nos indicará cual es el fichero que hemos subido y luego tendremos que darle a el botón de subida.
 
@@ -45,11 +45,11 @@ Al abrir la aplicación nos aparecera un recuador donde nos indica donde tenemos
 
 Una vez que hayamos seleccionado el gráfico, nos desplazaremos a la sección 'Vista previa y descarga' para poder seleccionar el gráfico deseado, en esta vista nos encontraremos a la izquierda una menú donde podremos seleccionar que tipo de gráfico queremos pintar, en la zona de la derecha encontraremos la zona donde se renderizará el gráfico, este menú tiene paginación por lo que hay varias páginas para mostrar todos los gráficos. Una vez clickado el gráfico nos aparecer el borde azul indicando que lo tenemos seleccionado.
 
-![Selector de tipos de gráfico](/selecciongraficos.png)
+![Selector de tipos de gráfico](./selecciongraficos.png)
 
 ## 3. Configuración de Datos
 
-![Panel de configuración](/configuracion.png)
+![Panel de configuración](./configuracion.png)
 
 Cuando tengamos tanto el gráfico seleccionado como el tipo de gráfico que queramos, nos aparecerán los paneles de configuración personalziados de cada gráfico
 
@@ -85,7 +85,7 @@ Panel donde aparecen los campos para representa la estética que le queremos dar
 Si hemos completado correctamente los demás pasos nos aparecerá el gráfico ya renderizamos, si modificamos cualquiera de estos  cambios los cambios se aplicarán en tiempo real y cambiará el gráfico. Próximo al gráfico nos aparecerán los botones para descargar nuestro gráfico en PNG o SVG.
 
 
-![Gráfico renderizado con controles](/render.png)
+![Gráfico renderizado con controles](./render.png)
 
 ### Resultado Final
 

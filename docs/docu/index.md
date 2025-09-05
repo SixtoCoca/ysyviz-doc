@@ -22,3 +22,7 @@ Bienvenido al manual completo de **Ysyviz**, una herramienta de visualización d
 ---
 
 *Ysyviz proporciona una solución completa para la visualización de datos, permitiendo a los usuarios a crear gráficos sin necesidad de añadir una línea de códiga.*
+
+---
+
+[← Volver al Inicio](../) | [→ Flujo de Trabajo](./workflow)
